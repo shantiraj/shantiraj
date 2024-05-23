@@ -15,7 +15,7 @@ This is my github profile
     
 🛠*Tech Stack*
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Java)
+![Python](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)]
 [![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000000?style=flat&logo=CSS3)]
