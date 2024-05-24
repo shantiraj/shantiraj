@@ -20,7 +20,7 @@ Hello, this is #ShantiRaj check my Github profile
     
 🛠*Tech Stack*
 
-![Python](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)]
 [![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000000?style=flat&logo=CSS3)]
@@ -34,4 +34,5 @@ Hello, this is #ShantiRaj check my Github profile
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pshantiraj123/)
--Gmail : pshantiraj123@gmail.com
+
+--Gmail : pshantiraj123@gmail.com
